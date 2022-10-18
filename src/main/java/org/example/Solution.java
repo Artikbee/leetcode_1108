@@ -15,5 +15,7 @@ public class Solution {
        }
         return st;
 
+       //return address.replace(".","[.]");
+
     }
 }
